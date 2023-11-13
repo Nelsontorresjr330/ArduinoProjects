@@ -36,7 +36,7 @@ The pause menu (Push in Joystick while in game) allows for the user to edit some
 
 ## Pictures
 ![Physical Circuit](https://github.com/Nelsontorresjr330/ArduinoProjects/blob/main/SnakeGame/PhysicalCircuit.jpeg)
-![Welcome Screen](https://github.com/Nelsontorresjr330/ArduinoProjects/blob/main/SnakeGame/PhysicalCircuit.jpeg)
+![Welcome Screen](https://github.com/Nelsontorresjr330/ArduinoProjects/blob/main/SnakeGame/MainScreen.jpeg)
 
 ## Notes
 The code is open-source and can be modified to suit your preferences.
